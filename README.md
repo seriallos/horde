@@ -43,32 +43,32 @@ of this document.
 Here are some of the other projects I've run across and why they don't quite for
 me:
 
-*nodeload*
+**nodeload**
 
 * No longer maintained
 * Difficult to perform complex sequences
 * Patchy HTTPS support
 
-*JMeter*
+**JMeter**
 
 * Want to write code, not XML
 * Not very *NIX-y
 
-*LoadUI/SoapUI*
+**LoadUI/SoapUI**
 
 * Expensive
 * Concurrency problems with complex scenarios
 * Hard to collaborate with a team
 
-*Gomez*
+**Gomez**
 
 * Expensive
 * "Enterprise"
 
-*blitz*
+**blitz**
 
 * Hosted
 
-*ab/siege/httperf*
+**ab/siege/httperf**
 
 * Too simplistic
